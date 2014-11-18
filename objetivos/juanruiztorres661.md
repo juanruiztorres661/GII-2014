@@ -95,7 +95,7 @@ Objetivos de Juan Antonio Ruiz.
 
 ##Clase del 20 de octubre de 2014.##
 
-* [ ] Entender el concepto de entorno virtual de desarrollo y comenzar a usarlo.
+* [X] Entender el concepto de entorno virtual de desarrollo y comenzar a usarlo.
 * [ ] Darse de alta en un PaaS y comprender los mecanismos usados para despliegue de aplicaciones así como el uso de los entornos virtuales anteriores.
 * [ ] Entender los mecanismos de creación y despliegue de aplicaciones en un PaaS
 
@@ -117,7 +117,7 @@ Objetivos de Juan Antonio Ruiz.
 * [ ] Revisar algún ejercicio de un compañero y sugerir cambios o mejoras. Se puede hacer, de la misma forma, mediante un pull request, en este caso al repo del compañero.
 * [ ] Auto-corregir los ejercicios de esta forma, comprobando que están correctos.
 * [ ] Asimilar buenas prácticas en el desarrollo y puesta en producción de lenguajes de scripting
-* [ ] Rellenar la hoja de equivalencias nombre-nick compartida con el grupo de correo
+* [X] Rellenar la hoja de equivalencias nombre-nick compartida con el grupo de correo
 
 ***
 
@@ -128,7 +128,7 @@ Objetivos de Juan Antonio Ruiz.
 
 ###Otros objetivos###
 
-* [ ] Último día de entrega de la primera práctica.
+* [X] Último día de entrega de la primera práctica.
 * [ ] Revisar algún ejercicio de un compañero y sugerir cambios o mejoras. Se puede hacer, de la misma forma, mediante un pull request, en este caso al repo del compañero. Hacer pull request directamente a su copia del repositorio, no al repositorio principal de la asignatura.
 * [ ] Auto-corregir los ejercicios de esta forma, comprobando que están correctos.
 * [ ] Asimilar buenas prácticas en el desarrollo y puesta en producción de lenguajes de scripting
